@@ -9,7 +9,6 @@ sass:
 url: http://localhost:4000
 disqus_shortname: goldslime88
 github_username:  "goldslime88"
-feed_icon: rss
 email: "cljjohn88@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
